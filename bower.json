@@ -1,0 +1,20 @@
+{
+  "name": "GetUrlsAPI",
+  "version": "0.0.0",
+  "homepage": "https://github.com/xianhuifeng/GetUrlsAPI",
+  "authors": [
+    "Xianhui Feng <xianhui.feng100@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.24",
+    "bootstrap": "~3.2.0"
+  }
+}

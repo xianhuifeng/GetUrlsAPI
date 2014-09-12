@@ -1,0 +1,22 @@
+{
+  "name": "GetUrlsAPI",
+  "version": "0.0.0",
+  "description": "GetUrlsAPI ==========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xianhuifeng/GetUrlsAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xianhuifeng/GetUrlsAPI/issues"
+  },
+  "homepage": "https://github.com/xianhuifeng/GetUrlsAPI",
+  "dependencies": {
+    "express": "^4.9.0"
+  }
+}
